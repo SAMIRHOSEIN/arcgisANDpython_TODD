@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+arcgis_project/
+GIS_data/
+*.gdb
+*.mxd
+*.sde
